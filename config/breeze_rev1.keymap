@@ -60,7 +60,7 @@
             //                                     |            |             |            |            |  |           |             |            |             |
         alt_layer {
             bindings = <
-                &bt bt_clr    &bt bt_sel 0  &bt bt_sel 1  &bt bt_sel 2  &bt bt_sel 3  &bt bt_sel 4              &soft_off   &trans    &trans          &trans     &trans    &trans         &trans      &trans    &trans
+                &bt bt_clr    &bt bt_sel 0  &bt bt_sel 1  &bt bt_sel 2  &bt bt_sel 3  &bt bt_sel 4				&trans	  	&trans    &trans          &trans     &trans    &trans         &trans      &trans    &trans
                 &trans        &bt bt_disc 0 &bt bt_disc 1 &bt bt_disc 2 &bt bt_disc 3 &bt bt_disc 4             &kp n6      &kp n7    &kp n8          &kp n9     &kp n0    &trans         &trans      &trans    &trans
                 &trans        &kp c_mute    &kp c_vol_dn  &kp c_vol_up  &out out_ble  &out out_usb              &kp left    &kp down  &kp up          &kp right  &trans    &trans                     &trans
                 &trans        &kp c_pp      &kp c_prev    &kp c_next    &trans        &studio_unlock            &trans      &trans    &trans          &trans     &trans    &trans         &trans      &trans    &trans
